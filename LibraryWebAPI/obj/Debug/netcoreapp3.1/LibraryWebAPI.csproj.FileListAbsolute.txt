@@ -1,0 +1,7 @@
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\obj\Debug\netcoreapp3.1\LibraryWebAPI.csprojAssemblyReference.cache
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\obj\Debug\netcoreapp3.1\LibraryWebAPI.AssemblyInfoInputs.cache
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\obj\Debug\netcoreapp3.1\LibraryWebAPI.AssemblyInfo.cs
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\obj\Debug\netcoreapp3.1\LibraryWebAPI.csproj.CoreCompileInputs.cache
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\obj\Debug\netcoreapp3.1\LibraryWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\bin\Debug\netcoreapp3.1\LibraryModel.dll
+D:\MASTER\.NET2\Laborator6\LibraryWebAPI\obj\Debug\netcoreapp3.1\LibraryWebAPI.RazorTargetAssemblyInfo.cache
