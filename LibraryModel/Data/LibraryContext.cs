@@ -17,6 +17,8 @@ namespace Mahulet_Andreea_Lab2.Data
         public DbSet<Book> Books { get; set; }
         public DbSet<Publisher> Publishers { get; set; }
         public DbSet<PublishedBook> PublishedBooks { get; set; }
+        public global::System.Object Database { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Customer>().ToTable("Customer");
@@ -25,6 +27,11 @@ namespace Mahulet_Andreea_Lab2.Data
             modelBuilder.Entity<PublishedBook>().ToTable("PublishedBook");
             modelBuilder.Entity<PublishedBook>()
             .HasKey(c => new { c.BookID, c.PublisherID });//configureaza cheia primara compusa
+        }
+
+        public global::System.Threading.Tasks.Task SaveChangesAsync()
+        {
+            throw new global::System.NotImplementedException();
         }
     }
 

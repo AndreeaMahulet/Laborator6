@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ydzcpx05XjgImjczNVtNzCZp03NIM66+4ir06MgbCqLIwezRDwC8H/9An0GmVL+hzyr5Git+5b5eJiQ2rz/Lhw==",
+  "dgSpecHash": "u37b8Am1UoOqYcYXhlJEKIINDGjmSnGbUetRGT3EaEMSnmrWQbmMsAVdsPnomDupW0dtQ7UkmuwFWE3UeSf/0g==",
   "success": false,
   "projectFilePath": "D:\\MASTER\\.NET2\\Laborator6\\LibraryWebAPI\\LibraryWebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.21\\microsoft.aspnetcore.cryptography.internal.3.1.21.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.21\\microsoft.aspnetcore.cryptography.keyderivation.3.1.21.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.21\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.21.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\3.1.21\\microsoft.aspnetcore.identity.ui.3.1.21.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
@@ -21,7 +25,7 @@
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.11\\microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512",
-    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.20\\microsoft.entityframeworkcore.relational.3.1.20.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.21\\microsoft.entityframeworkcore.relational.3.1.21.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.20\\microsoft.entityframeworkcore.sqlite.3.1.20.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.20\\microsoft.entityframeworkcore.sqlite.core.3.1.20.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.19\\microsoft.entityframeworkcore.sqlserver.3.1.19.nupkg.sha512",
@@ -30,6 +34,10 @@
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.21\\microsoft.extensions.fileproviders.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.21\\microsoft.extensions.fileproviders.embedded.3.1.21.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.21\\microsoft.extensions.identity.core.3.1.21.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.21\\microsoft.extensions.identity.stores.3.1.21.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
@@ -53,7 +61,7 @@
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -171,7 +179,7 @@
     {
       "code": "NU1605",
       "level": "Error",
-      "message": "Detected package downgrade: Microsoft.EntityFrameworkCore.SqlServer from 3.1.20 to 3.1.19. Reference the package directly from the project to select a different version. \r\n LibraryWebAPI -> Mahulet_Andreea_Lab2 -> Microsoft.EntityFrameworkCore.SqlServer (>= 3.1.20) \r\n LibraryWebAPI -> Microsoft.EntityFrameworkCore.SqlServer (>= 3.1.19)",
+      "message": "Detected package downgrade: Microsoft.EntityFrameworkCore.SqlServer from 3.1.21 to 3.1.19. Reference the package directly from the project to select a different version. \r\n LibraryWebAPI -> Mahulet_Andreea_Lab2 -> Microsoft.EntityFrameworkCore.SqlServer (>= 3.1.21) \r\n LibraryWebAPI -> Microsoft.EntityFrameworkCore.SqlServer (>= 3.1.19)",
       "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
